@@ -10,10 +10,10 @@ function Home() {
 
   const teamMembers = [
     {
-      name: "Sarah Johnson",
+      name: "Arslan Ahmad Khan",
       role: "Frontend Developer",
       shortDesc: "Specialist in React.js and modern UI development with Tailwind CSS",
-      image: "https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg?auto=compress&cs=tinysrgb&w=400",
+      image: "/WhatsApp Image 2025-11-05 at 05.38.17_f9aca8a0.jpg",
       skills: [
         "React.js Development",
         "JavaScript (ES6+)",
@@ -27,10 +27,10 @@ function Home() {
       ]
     },
     {
-      name: "Michael Chen",
+      name: "Muhammad Naveed",
       role: "Backend Developer",
       shortDesc: "Python & Django expert, building robust server-side solutions",
-      image: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400",
+      image: "/WhatsApp Image 2025-11-05 at 05.38.17_4c0b2242.jpg",
       skills: [
         "Python Development",
         "Django Framework",
@@ -44,10 +44,10 @@ function Home() {
       ]
     },
     {
-      name: "Emily Rodriguez",
+      name: "Saad Rana",
       role: "Project Manager",
       shortDesc: "Agile methodologies expert",
-      image: "https://images.pexels.com/photos/3765114/pexels-photo-3765114.jpeg?auto=compress&cs=tinysrgb&w=400",
+      image: "https://i.pinimg.com/736x/15/0f/a8/150fa8800b0a0d5633abc1d1c4db3d87.jpg",
       skills: [
         "Project planning",
         "Client communication",
