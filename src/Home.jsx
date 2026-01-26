@@ -43,7 +43,7 @@ function Home() {
       name: "Muhammad Naveed",
       role: "Backend Developer & Automation Specialist",
       shortDesc: "Python expert specializing in API development, workflow automation, and AI integration",
-      image: "/WhatsApp Image 2026-01-25 at 9.57.42 PM.jpg",
+      image: "/naveed.jpg",
       skills: [
         "Python Development",
         "Django REST Framework (DRF)",
